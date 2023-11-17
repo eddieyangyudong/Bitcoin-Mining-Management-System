@@ -1,4 +1,4 @@
-Bitcoin Mining Management Application
+## Bitcoin Mining Management Application
 
 Welcome to our Bitcoin Mining Management Application, a comprehensive tool designed to streamline the management and analysis of Bitcoin mining hardware and operations. This application is built using modern web technologies, including React for the frontend and TypeScript for the server-side logic, ensuring a robust and scalable solution for miners.
 
